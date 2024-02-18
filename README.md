@@ -55,7 +55,7 @@ Netflix's content library is vast and diverse, and Screen Gems dives into its in
 
 ## Data Source
 
-The project utilizes a dataset reflecting Netflix's content library. The dataset is available at data/netflix_content.csv.
+The project utilizes a dataset reflecting Netflix's content library. The dataset is available in netflix_titles.csv
 
 ## Contributing
 
