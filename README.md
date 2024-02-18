@@ -46,35 +46,35 @@ Netflix's content library is vast and diverse, and Screen Gems dives into its in
 
 ## Insights
 
-1) Global Cinema and Television Production: Country-wise Analysis
-•	Utilized a world map to visualize the distribution of Netflix content production globally.
-•	Emphasized the significance of geospatial data visualization.
-•	Unveiled insights, such as the United States leading in content production.
+1. Global Cinema and Television Production: Country-wise Analysis
 
-2) Leading Genres in Netflix Content:
-•	Employed a bar chart to identify the top 10 content genres.
-•	Demonstrated proficiency in conveying data through effective bar charts.
-•	Revealed that documentaries and stand-up comedy were prominent, while children and family movies were less prevalent.
+Utilized a world map to depict the distribution of Netflix content production across different countries.
+Highlighted the concept of geospatial data visualization.
+Revealed that the United States, for instance, produced the most content.
+2. Leading Genres in Netflix Content
 
-3) Rating Breakdown:
-•	Implemented a column chart to depict the distribution of content ratings.
-•	Showcased the ability to present data using columns effectively.
-•	Discovered that 'TV-MA' was the most common rating, while 'NC-17' was the least prevalent.
+Constructed a bar chart to identify the top 10 content genres.
+Demonstrated proficiency in data representation through bar charts.
+Discovered that documentaries and stand-up comedy were the most prevalent genres, while children and family movies were less common.
+3. Rating Breakdown
 
-4) Evolution of Film and Television: Yearly Catalog Overview
-•	Created an area chart displaying the yearly evolution of Netflix content.
-•	Demonstrated expertise in visualizing time series data.
-•	Indicated steady growth in the content library, with a significant spike in 2020.
+Employed a column chart to illustrate the distribution of content ratings.
+Showcased the ability to display data using columns.
+Found that 'TV-MA' was the most common rating, while 'NC-17' was the least prevalent.
+4. Evolution of Film and Television: Yearly Catalog Overview
 
-5) Content Distribution Overview
-•	Designed two circle charts to illustrate the proportion of movies and TV shows.
-•	Demonstrated the use of circle charts for effective data representation.
-•	Discovered that 68.42% of Netflix content comprises movies, while TV shows make up 31.58%.
+Created an area chart displaying the yearly evolution of content on Netflix.
+Showcased expertise in time series data visualization.
+Indicated that the content library has grown steadily over the years, with the most significant growth in 2020.
+5. Content Distribution Overview
 
-6) Interactive Filters:
-•	Incorporated filters for content type (TV shows or movies), title, duration, release year, and description.
-•	Enhanced user experience by enabling data exploration based on various criteria.
+Designed two circle charts to reveal the proportion of movies and TV shows.
+Demonstrated the use of circle charts for data representation.
+Discovered that 68.42% of Netflix content consists of movies, while 31.58% comprises TV shows.
+6. Interactive Filters:
 
+Incorporated filters for content type (TV shows or movies), title, duration, release year, and description.
+Enhanced the user experience by allowing data exploration based on various criteria
 ## Data Source
 
 The project utilizes a dataset reflecting Netflix's content library. The dataset is available at data/netflix_content.csv.
